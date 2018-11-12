@@ -1,0 +1,25 @@
+{
+  "name": "plantr",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/james-santos/Pair-Exercise-Plantr.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/james-santos/Pair-Exercise-Plantr/issues"
+  },
+  "homepage": "https://github.com/james-santos/Pair-Exercise-Plantr#readme",
+  "dependencies": {
+    "pg": "^7.6.1",
+    "pg-hstore": "^2.3.2",
+    "sequelize": "^4.41.2"
+  }
+}
